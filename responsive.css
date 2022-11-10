@@ -95,7 +95,7 @@
 
 /* Akhir Responsive Laptop */
 
-/* Responsive Handphone ukuran kecil */
+/* Responsive Handphone ukuran Sedang */
 @media screen and (max-width : 391px) {
     /* Main Content */
 
@@ -121,4 +121,13 @@
 
 }
 
-/* Akhir Responsive Handphone ukuran kecil */
+/* Akhir Responsive Handphone ukuran Sedang */
+
+/* Responsive Handphone ukuran Sedang */
+@media screen and (max-width : 375px) {
+    .sidebar {
+        margin: 20px 0 0 0;
+    }
+}
+
+/* Akhir Responsive Handphone ukuran Sedang */
